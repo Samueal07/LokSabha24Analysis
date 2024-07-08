@@ -20,3 +20,11 @@ This Streamlit application provides a comprehensive analysis of the Lok Sabha El
    git clone https://github.com/Samueal07/LokSabha24Analysis.git
    cd LokSabha24Analysis
    ```
+
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+   ```sh
+   streamlit run app.py
+   ```
